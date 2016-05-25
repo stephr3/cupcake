@@ -1,0 +1,13 @@
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+.best {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+body {
+  font-family: Cuprum, sans-serif;
+}
