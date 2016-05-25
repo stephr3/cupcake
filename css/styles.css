@@ -11,3 +11,7 @@
 body {
   font-family: Cuprum, sans-serif;
 }
+
+a.imglink:hover{
+  opacity: 0.5;
+}
